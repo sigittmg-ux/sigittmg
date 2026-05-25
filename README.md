@@ -1,5 +1,3 @@
-# sigittmg
-gamer
 <!DOCTYPE html>
 <html lang="en">
 <head>
